@@ -1,16 +1,36 @@
-### Hi there 👋
+[![MasterHead](https://images.unsplash.com/photo-1556244573-c3686c0f0e78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80)]
+<h1 align="center">Hi 👋, I'm Itoro Brown</h1>
+<h3 align="center">I am a passionate Blockchain Developer</h3>
+<img align="right" alt= "Etherium" width="400" src="https://images.unsplash.com/photo-1639152201720-5e536d254d81?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZXRoZXJldW18ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
 
-<!--
-**Itoro-Brown/Itoro-Brown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itoro-brown&label=Profile%20views&color=0e75b6&style=flat" alt="itoro-brown" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **improving myself each day**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Nextjs and Rust**
+
+- 👯 I’m looking to collaborate on **building Dapps,Tokens and Nft marketplaces**
+
+- 💬 Ask me about **Solidity,EVM,NFts and Dapps**
+
+- 📫 How to reach me **itorobrown814@gmail.com**
+
+- ⚡ Fun fact **I am a fast learner and also easy going individual**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/brownitoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brownitoro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itoro brown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itoro brown" height="30" width="40" /></a>
+<a href="https://fb.com/itoro brown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itoro brown" height="30" width="40" /></a>
+<a href="https://medium.com/@itorobrown814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itorobrown814" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itoro-brown&show_icons=true&locale=en&layout=compact" alt="itoro-brown" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itoro-brown&show_icons=true&locale=en" alt="itoro-brown" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itoro-brown&" alt="itoro-brown" /></p>
+
