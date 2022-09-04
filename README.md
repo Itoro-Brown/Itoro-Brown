@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1556244573-c3686c0f0e78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80)]
+
 <h1 align="center">Hi 👋, I'm Itoro Brown</h1>
 <h3 align="center">I am a passionate Blockchain Developer</h3>
 <img align="right" alt= "Etherium" width="400" src="https://images.unsplash.com/photo-1639152201720-5e536d254d81?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZXRoZXJldW18ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
