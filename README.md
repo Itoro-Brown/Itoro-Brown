@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **improving myself each day**
 
-- 🌱 I’m currently learning **Nextjs and Rust**
+- 🌱 I’m currently looking for a role as QA Engineer 
 
-- 👯 I’m looking to collaborate on **building Dapps,Tokens and Nft marketplaces**
+- 👯 I’m looking to collaborate on **Testing both App and websites building Dapps,Tokens and Nft marketplaces**
 
-- 💬 Ask me about **Solidity,EVM,NFts and Dapps**
+- 💬 Ask me about **Test Scripts, Test Executions,Solidity,EVM,NFts and Dapps**
 
 - 📫 How to reach me **itorobrown814@gmail.com**
 
