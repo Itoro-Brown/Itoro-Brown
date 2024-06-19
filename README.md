@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Itoro Brown</h1>
-<h3 align="center">I am a passionate Blockchain Developer</h3>
+<h3 align="center">I am a passionate Quality Assurance Engineer</h3>
 <img align="right" alt= "Etherium" width="400" src="https://images.unsplash.com/photo-1639152201720-5e536d254d81?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZXRoZXJldW18ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itoro-brown&label=Profile%20views&color=0e75b6&style=flat" alt="itoro-brown" /> </p>
